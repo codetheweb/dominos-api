@@ -1,0 +1,20 @@
+{
+  "name": "dominos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "author": "Max Isom <codetheweb@icloud.com> (https://maxisom.me)",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^9.6.0"
+  },
+  "xo": {
+    "space": true
+  },
+  "devDependencies": {
+    "xo": "^0.24.0"
+  }
+}
