@@ -9,7 +9,7 @@
   "author": "Max Isom <codetheweb@icloud.com> (https://maxisom.me)",
   "license": "ISC",
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   },
   "xo": {
     "space": true
